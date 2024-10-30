@@ -1,0 +1,5 @@
+Processes may not be listed in exact numerical order 
+Results for quantum: 3 CPU Utilization = 87.5%
+P2 (Turn Around Time = 6 Ready Wait Time = 4 I/O Wait Time = 0)
+P1 (Turn Around Time = 35 Ready Wait Time = 17 I/O Wait Time = 3)
+P3 (Turn Around Time = 49 Ready Wait Time = 24 I/O Wait Time = 1)
